@@ -1,0 +1,6 @@
+com\amazonaws\dynamodb\testmain.class
+com\amazonaws\dynamodb\RepoInterface.class
+com\amazonaws\apigateway\LambdaFunctionHandler.class
+com\amazonaws\dynamodb\DynamoConfig.class
+com\amazonaws\dynamodb\Stackholder.class
+com\amazonaws\dynamodb\StackholderRepository.class
